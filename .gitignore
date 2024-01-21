@@ -14,3 +14,6 @@ yarn-error.log
 CODE_OF_CONDUCT.md
 SECURITY.md
 LICENSE
+/vendor/
+composer.json
+composer.lock
